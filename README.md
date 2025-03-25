@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and Software Developer 💻. Currently, I'm exploring the world of Deep Learning 🧠 after mastering Supervised Learning and Unsupervised Learning✅.<br><br>🚀 My Projects<br>🔍 Fuel Efficiency Prediction and Analysis: Building insights for automotive innovation 🚗.<br><br>🌐 Classifying Network Traffic Flow: Enhancing network security through data science 📡.<br><br>🧠 Real-Time Emotion Detection: Combining text, video, and speech to recognize emotions in real-time 😊📽️🎤.<br><br>🌟 Skills & Interests<br>Languages: C, Python 🐍, Java ☕, and more!<br><br>Interests: Artificial Intelligence, Data Visualization 📈, and Cloud Computing ☁️.<br><br>🌱 Currently Learning<br>Deep Learning 🌌 .<br><br>🌐 Connect with Me<br>💼 Intern at First Quadrant Labs.<br><br>
+Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and Software Developer 💻. Currently, I'm exploring the world of Deep Learning 🧠 after mastering Supervised Learning and Unsupervised Learning✅.<br><br>🌱 Currently Learning<br>Deep Learning 🌌 .<br><br>🌐 Connect with Me<br>💼 Intern at First Quadrant Labs.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and So
 ![](https://github-readme-stats.vercel.app/api?username=hitkalariya&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hitkalariya&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitkalariya&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hitkalariya&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hitkalariya&icon=0&color=1)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and Software Developer 💻. Currently, I'm exploring the world of Deep Learning 🧠 after mastering Supervised Learning and Unsupervised Learning✅.<br><br>🌱 Currently Learning<br>Deep Learning 🌌 .<br><br>🌐 Connect with Me<br>💼 Intern at First Quadrant Labs.<br><br>
+Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and Software Developer 💻. Currently, I'm exploring the world of Deep Learning 🧠 after mastering Supervised Learning and Unsupervised Learning✅.<br><br>🌐 Connect with Me<br>💼 Intern at First Quadrant Labs.<br><br>
 
 
 ## 🌐 Socials:

@@ -1,18 +1,264 @@
-# 💫 About Me:
-Hi there! I'm hit kalariya, a passionate Machine Learning Enthusiast 🤖 and Software Developer 💻. Currently, I'm exploring the world of Deep Learning 🧠 after mastering Supervised Learning and Unsupervised Learning✅.<br><br>🌐 Connect with Me<br>💼 Intern at First Quadrant Labs.<br><br>🌐 My Portfolio link : https://hitsfolio.vercel.app/ <br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Hit%20Kalariya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Neural%20Networks%20Expert%20|%20Computer%20Vision%20Specialist&descAlignY=55&descSize=20"/>
+</div>
+
+<div align="center">
+  <a href="mailto:hitkalariya88@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Professional%20Contact-hitkalariya88@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&logoWidth=20"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌐%20Let's%20Connect-4facfe?style=for-the-badge&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/🤝%20Collaborate-00f2fe?style=for-the-badge&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/🚀%20Innovate-667eea?style=for-the-badge&labelColor=2d3748"/>
+</div>
+
+<be>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hitkalariya_?igsh=MWtqbzliZjNneWZnMg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hit-kalariya-21b81b316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitkalariya88@gmail.com) 
+<br clear="right"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hitkalariya&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hitkalariya&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitkalariya&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/hitkalariya">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hitkalariya?color=667eea&style=for-the-badge&labelColor=2d3748&logo=star&v=12345"/>
+</a>
+  <a href="https://github.com/hitkalariya">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hitkalariya?color=764ba2&style=for-the-badge&labelColor=2d3748&logo=person-add"/>
+  </a>
+  <a href="https://github.com/AHMEDSANA">
+    <img src="https://komarev.com/ghpvc/?username=hitkalariya&color=f093fb&style=for-the-badge&label=Profile+Views"/>
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=hitkalariya&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🚀 About Me
+
+<img align="right" alt="Coding" height="273" width="307" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" autoplay loop>
+
+```yaml
+Name: Hit Kalariya
+
+Role: AI-ML Developer and Researcher
+
+Focus: 
+  - 🧠 Artificial Neural Networks
+
+  - 👁️ Computer Vision
+
+  - 🏥 AI Research
+ 
+  - 🎨 Large Models(LLM, VLM, LCM)
+
+Motto: "Converting code into creativity ✨, one innovation at a time 🖥️"
+```
+
+## 💻 Technical Expertise
+
+<div align="center">
+
+### 🧠 AI & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Neural_Networks-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-Expert-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-Expert-45B7D1?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2d3748"/>
+</p>
+
+### 👁️ Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-Expert-96CEB4?style=for-the-badge&logo=opencv&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Image_Processing-Expert-FFEAA7?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748"/>
+</p>
+
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Data_Analysis-Expert-FF7675?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-Expert-FDCB6E?style=for-the-badge&logo=plotly&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-Expert-A29BFE?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Predictive_Analytics-Expert-FD79A8?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2d3748"/>
+</p>
+
+### 🛠️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Keras-Expert-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=2d3748"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/-Proficient-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/MATLAB-Proficient-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=2d3748"/>
+</p>
+
+### 🚀 Deployment & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2d3748"/>
+  <img src="https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d3748"/>
+</p>
+
+</div>
+
+## 🛠️ Technology Stack
+
+<div align="center">  
+  <table>    
+    <tr>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />        
+        <br><strong>Python</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C" />        
+        <br><strong>C</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" />        
+        <br><strong>TensorFlow</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch" />        
+        <br><strong>PyTorch</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="60" alt="Keras" />        
+        <br><strong>Keras</strong>      
+      </td>    
+    </tr>    
+    <tr>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV" />        
+        <br><strong>OpenCV</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" />        
+        <br><strong>NumPy</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />        
+        <br><strong>Pandas</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="60" height="60" alt="Matplotlib" />        
+        <br><strong>Matplotlib</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Seaborn" />        
+        <br><strong>Seaborn</strong>      
+      </td>    
+    </tr>    
+    <tr>      
+      <td align="center" width="120">        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-Learn" />        
+        <br><strong>Scikit-Learn</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://scikit-image.org/_static/img/logo.png" width="60" height="60" alt="Scikit-Image" />        
+        <br><strong>Scikit-Image</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://nipy.org/nibabel/_static/nibabel-logo.svg" width="60" height="60" alt="NiBabel" />        
+        <br><strong>NiBabel</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="60" height="60" alt="MATLAB" />        
+        <br><strong>MATLAB</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="60" height="60" alt="Streamlit" />        
+        <br><strong>Streamlit</strong>      
+      </td>    
+    </tr>    
+    <tr>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" />        
+        <br><strong>Git</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" />        
+        <br><strong>Linux</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" />        
+        <br><strong>VSCode</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />        
+        <br><strong>Jupyter</strong>      
+      </td>      
+      <td align="center" width="120">        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI" />        
+        <br><strong>FastAPI</strong>      
+      </td>    
+    </tr>    
+    <tr>      
+      <td align="center" width="120">        
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60" height="60" alt="Hugging Face" />        
+        <br><strong>Hugging Face</strong>      
+      </td>      
+      <td align="center" width="120"></td>      
+      <td align="center" width="120"></td>      
+      <td align="center" width="120"></td>      
+      <td align="center" width="120"></td>    
+    </tr>  
+  </table>
+</div>
+
+<br>
+
+## 🌟 Featured Projects
+<div align="center">    
+<br>
+  <a href="https://github.com/hitkalariya?tab=repositories">    
+    <img src="https://custom-icon-badges.demolab.com/badge/🔍%20Explore%20Complete%20Portfolio-667eea?style=for-the-badge&logoColor=white&logo=repo&labelColor=2d3748"/>  
+  </a>  
+</div>
+
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">  
+  <em><b>"The future of tech thrives on collaboration. Drop a hello, and let's code the world's next breakthrough!"</b></em>
+  <br>
+  <em>— Linus Torvalds</em>
+</div>
+
+
+<div align="center">
+  <h3>🌟 Open to exciting opportunities in:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/🧠%20AI%20Research-667eea?style=for-the-badge&labelColor=2d3748"/>
+    <img src="https://img.shields.io/badge/👁️%20Computer%20Vision-4facfe?style=for-the-badge&labelColor=2d3748"/>
+    <img src="https://img.shields.io/badge/🤖%20Deep%20Learning-fa709a?style=for-the-badge&labelColor=2d3748"/>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+<div align="center">
+  <br>
+  <p style="font-size: 18px; font-weight: bold; color: #667eea;">
+    <em>"Building the future with AI, one neural network at a time"</em> 🚀
+  </p>
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

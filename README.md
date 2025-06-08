@@ -16,7 +16,7 @@
 
 <!-- Added Social Links Section -->
 <div align="center" style="margin-top: 10px;">
-  <a href=www.linkedin.com/in/hitkalariya" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/hitkalariya" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/hitkalariya" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">

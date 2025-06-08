@@ -26,7 +26,7 @@
   <a href="https://github.com/hitkalariya">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hitkalariya?color=764ba2&style=for-the-badge&labelColor=2d3748&logo=person-add"/>
   </a>
-  <a href="https://github.com/AHMEDSANA">
+  <a href="https://github.com/hitkalariya">
     <img src="https://komarev.com/ghpvc/?username=hitkalariya&color=f093fb&style=for-the-badge&label=Profile+Views"/>
   </a>
 </p>

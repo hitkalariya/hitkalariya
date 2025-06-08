@@ -14,8 +14,20 @@
   <img src="https://img.shields.io/badge/🚀%20Innovate-667eea?style=for-the-badge&labelColor=2d3748"/>
 </div>
 
-<be>
+<!-- Added Social Links Section -->
+<div align="center" style="margin-top: 10px;">
+  <a href=www.linkedin.com/in/hitkalariya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hitkalariya" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://hitsfolio.vercel.app/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
+<be>
 
 <br clear="right"/>
 

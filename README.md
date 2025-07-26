@@ -59,7 +59,6 @@ Focus:
   - 🎨 Large Models (LLM, VLM, LCM)
   - 🤖 Agentic AI, Multi‑Agent Systems
   - 🧩 Multimodal AI
-  - 👁️ Computer Vision
 
 Motto: "Converting code into creativity ✨, one innovation at a time 🖥️"
 ```

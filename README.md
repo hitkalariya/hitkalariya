@@ -54,12 +54,12 @@ Role: AI-ML Developer and Researcher
 
 Focus: 
   - 🧠 Artificial Neural Networks
-
   - 👁️ Computer Vision
-
   - 🏥 AI Research
- 
-  - 🎨 Large Models(LLM, VLM, LCM)
+  - 🎨 Large Models (LLM, VLM, LCM)
+  - 🤖 Agentic AI, Multi‑Agent Systems
+  - 🧩 Multimodal AI
+  - 👁️ Computer Vision
 
 Motto: "Converting code into creativity ✨, one innovation at a time 🖥️"
 ```
